@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Flow Runner",
+      "price": 1299000,
+      "category": "Running",
+      "description": "Lightweight running shoes with advanced cushioning technology for maximum comfort during long runs.",
+      "image": "/uploads/sample1.jpg",
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Street Style High",
+      "price": 1499000,
+      "category": "Lifestyle",
+      "description": "Premium high-top sneakers combining street style with everyday comfort.",
+      "image": "/uploads/sample2.jpg",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "stock": 35
+    },
+    {
+      "id": 3,
+      "name": "Sport Pro Elite",
+      "price": 1799000,
+      "category": "Sports",
+      "description": "Professional-grade sports shoes designed for peak performance.",
+      "image": "/uploads/sample3.jpg",
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "stock": 25
+    }
+  ],
+  "orders": [],
+  "nextProductId": 4,
+  "nextOrderId": 1
+}
